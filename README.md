@@ -1,1 +1,8 @@
-# Alvaro-Moreno
+Desarrollo aplicaciones web funcionales y soluciones de sistemas robustas, desde la gestión de bases de datos y programación en Java hasta la administración de servidores en Linux y el despliegue con Docker. Me especializo en aplicar una base sólida de soporte técnico y resolución de problemas de hardware para construir infraestructuras web eficientes y bien estructuradas.
+
+* 🚀 **Técnico de Sistemas y Soporte IT** — Experiencia práctica en resolución de incidencias de hardware, configuración de redes (VLANs, firewalls, VPNs) y scripting en Bash para la automatización de tareas en entornos corporativos.
+* 🧠 **Creador de ReBoot Pc** — Diseño conceptual de un proyecto integral enfocado en chasis de PC personalizados, reparación de hardware y servicios técnicos a domicilio, combinando conocimientos de microinformática con visión de negocio.
+* 🌐 **Gestión de Infraestructura Web** — Experiencia en el despliegue y administración de contenedores con Docker, configuración de CMS como WordPress y mantenimiento de entornos Linux orientados al desarrollo.
+* 🏆 **Diseñador de Niveles y Entornos Digitales (Blogde)** — Más de 10 años aplicando lógica estructurada, atención al detalle y sincronización audiovisual en el diseño de niveles, además de experiencia en modelado de entornos 3D con Blender.
+* 💻 **Desarrollador Backend en Formación** — Construyendo aplicaciones mediante conceptos de programación orientada a objetos con Java y arquitecturas de bases de datos eficientes.
+* 🎓 **FP Grado Superior en Desarrollo de Aplicaciones Web (DAW)** — Titulado en Microinformática y Redes (Sistemas y Soporte) en Málaga. Graduación proyectada para 2028.
